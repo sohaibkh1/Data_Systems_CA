@@ -1,0 +1,21 @@
+*.zip
+*.csv
+Computer Science Coursework 2025-26_COMM108J.pdf
+Data_Systems_CW/Sohaib_Khalaf_760012524_DataSystems.pdf
+*760012524*
+*Sohaib_Khalaf*
+.env
+.env.*
+*.key
+*.pem
+secrets/
+private/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.tmp
+*.log
+*.bak
