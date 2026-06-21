@@ -4,7 +4,7 @@ This repository contains a Data Systems project focused on designing and impleme
 
 ## Repository Contents
 
-- `Data_Systems_CW/farm_sustainability.sql` - SQL implementation for the relational database.
+- `farm_sustainability.sql` - SQL implementation for the relational database.
 - `Data_Systems_Report.pdf` - project report explaining the database design, normalisation, SQL implementation, and design decisions.
 
 ## Project Overview
